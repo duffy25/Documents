@@ -45,4 +45,4 @@ x = 2 + 2
 what is x
 ```
 
-[Visit GitHub url !](www.github.com)
+This is [an example](http://example.com/ "Title") inline link.
