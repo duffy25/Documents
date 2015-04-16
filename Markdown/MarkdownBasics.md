@@ -64,7 +64,18 @@ what is x
     </div>
 
 
+链接
 This is [an example](http://example.com/ "Title") inline link.
+链接参考式
+This is [an example] [id] reference-style link.
+[id]: http://example.com/  "Optional Title Here"
+
+
+
 
 符号
 &copy;
+
+分隔线
+***
+- - -
