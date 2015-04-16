@@ -14,7 +14,7 @@
 
 *__粗体又斜体__*
 
-* List Item
+* 无序列表
 * Item
 * Item
 
@@ -22,7 +22,7 @@
 - Item
 - Item
 
-1. Ordered listsb Item 1
+1. 有序列表
 2. Item 2
 3. Item 3
 
@@ -35,6 +35,18 @@
     * You might want to consider making a new list.
 3. Item 3
 
+列表项目可以包含多个段落，每个项目下的段落都必须缩进 4 个空格或是 1 个制表符：
+1.  This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere lectus.
+
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+    sit amet velit.
+
+非列表数字开头
+1986\. What a great season.
+
 Here's an idea: why don't we take `SuperiorProject单引号` and turn it into `**Reasonable**Project`.
 
 Check out this neat program I wrote:
@@ -45,4 +57,14 @@ x = 2 + 2
 what is x
 ```
 
+代码区块
+要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以，例如，下面的输入：
+    <div class="footer">
+        &copy; 2004 Foo Corporation
+    </div>
+
+
 This is [an example](http://example.com/ "Title") inline link.
+
+符号
+&copy;
