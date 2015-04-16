@@ -4,6 +4,5 @@
 ##### H4 Title
 ###### H5 Title
 ####### H6 Title
-<h1>
 
 > Pardon my french
