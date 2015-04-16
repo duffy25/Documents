@@ -1,6 +1,7 @@
-# H1 Title<h1>
-## H2 Title<h2>
+# H1 Title
+## H2 Title
 ### H3 Title
 ##### H4 Title
 ###### H5 Title
 ####### H6 Title
+<h1>
